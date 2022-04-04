@@ -39,7 +39,6 @@ public class Lesson2 {
                     throw new MyArrayDataException(i, j);
                 }
             }
-
         }
         return count;
     }
