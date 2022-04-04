@@ -1,5 +1,5 @@
 //Не сделать пуллреквест
-public class Lesson2 {
+public class J2L2 {
     public static void main(String[] args) {
 
         String[][] array = new String[][]{
